@@ -22,5 +22,3 @@ class Solution:
             prev = curr
             curr = temp
         return prev
-    
-            
